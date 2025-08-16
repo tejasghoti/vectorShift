@@ -1,4 +1,5 @@
-# vectorShift-trg
+# vectorShift
+
 
 Demo FastAPI + React integration project showcasing OAuth2 flows for Notion, Airtable, and HubSpot.
 
